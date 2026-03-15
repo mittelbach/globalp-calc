@@ -2,7 +2,7 @@ import streamlit as st
 import webbrowser
 
 # --- ESTÉTICA AQUA LAPRIDA ---
-st.set_page_config(page_title="GLOBALP CALCULATOR", layout="centered")
+st.set_page_config(page_title="GPC Calc", layout="centered")
 
 st.markdown("""
     <style>
